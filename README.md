@@ -30,7 +30,7 @@ I am fascinated by data, by everything that is quantifiable and from which infor
 
  # 📊 Stats
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohcenlaaroussi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohcenlaaroussi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
   <p align="center">
   <!--<img src="https://github-profile-trophy.vercel.app/?username=mohcenlaaroussi&theme=juicyfresh&row=1&no-frame=true" alt="quote" style="display:flex" />-->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohcenlaaroussi&theme=radical"/>
@@ -47,7 +47,9 @@ I am fascinated by data, by everything that is quantifiable and from which infor
   <p align="center">
 </p>
 
-
+## 🌐 Contact Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohcen-laaroussi-4207a9170) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=GitHub&logoColor=white&labelColor=black&color=000000)](https://github.com/mohcenlaaroussi)
 <!--
 **mohcenlaaroussi/mohcenlaaroussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
