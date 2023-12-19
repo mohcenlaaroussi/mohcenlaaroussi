@@ -31,10 +31,22 @@ I am fascinated by data, by everything that is quantifiable and from which infor
  # 📊 Stats
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohcenlaaroussi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohcenlaaroussi&theme=juicyfresh&row=1&no-frame=true" alt="quote" style="display:flex" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohcenlaaroussi&theme=radical"/>
 
+  <div align='center' style="display: inline-block; margin-right: 20px;">
+        <img src= "https://github-readme-stats.vercel.app/api?username=mohcenlaaroussi&show_icons=true&theme=radical&hide_border=true"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcenlaaroussi&theme=radical&exclude_repo=Business-Information-System&langs_count=3&hide=assembly&hide_border=true"/>
+  </div>
+  
    <div align='center' style="display: inline-block;">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohcenlaaroussi&theme=radical&hide_border=true"/>
   </div>
+
+  <p align="center">
+</p>
+
 
 <!--
 **mohcenlaaroussi/mohcenlaaroussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
