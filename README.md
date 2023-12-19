@@ -32,7 +32,7 @@ I am fascinated by data, by everything that is quantifiable and from which infor
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohcenlaaroussi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohcenlaaroussi&theme=juicyfresh&row=1&no-frame=true" alt="quote" style="display:flex" />
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=mohcenlaaroussi&theme=juicyfresh&row=1&no-frame=true" alt="quote" style="display:flex" />-->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohcenlaaroussi&theme=radical"/>
 
   <div align='center' style="display: inline-block; margin-right: 20px;">
